@@ -1,2 +1,2 @@
 # StarkRaise-crowdfunding
-This is a crowdunding Application built on Starknet
+This is a crowdfunding Application built on Starknet
