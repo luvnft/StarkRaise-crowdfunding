@@ -1,0 +1,11 @@
+{
+  "name": "funddapp-master",
+  "version": "1.0.0",
+  "description": "A Stark-crowdfund",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Wasonga",
+  "license": "ISC"
+}
