@@ -3,9 +3,9 @@ This is a crowdfunding Application built on Starknet
 
 
 
-# ChainFunding DApp
+# StarkRaise DApp
 
-![](readme/chainfundingLogo.png)
+![](readme/StarkRaiseLogo.png)
 
 <p align="center">
   <strong>🖥️ DApp Projekt</strong><br>
